@@ -3,3 +3,5 @@ File 2
 Edited File.
 
 Edited Again.
+
+This is in Branch v2.0.
